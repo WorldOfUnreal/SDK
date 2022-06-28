@@ -1,0 +1,6 @@
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\obj\Debug\CandidSDK.csproj.AssemblyReference.cache
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\obj\Debug\CandidSDK.csproj.CoreCompileInputs.cache
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\bin\Debug\CandidSDK.dll
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\bin\Debug\CandidSDK.pdb
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\obj\Debug\CandidSDK.dll
+C:\Users\christianb\source\repos\CandidSDK\CandidSDK\obj\Debug\CandidSDK.pdb
